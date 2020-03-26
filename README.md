@@ -9,3 +9,6 @@ Features
  - Camera that follows player
  - Blocked zones where player cannot go through based on tile properties
  - Music
+ 
+ 
+ *Video Demo:* https://youtu.be/nSyTHBEHLoQ
