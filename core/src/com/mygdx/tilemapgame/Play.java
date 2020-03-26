@@ -15,8 +15,10 @@ public class Play implements Screen {
     private TiledMap map;
     private OrthogonalTiledMapRenderer renderer;
     private OrthographicCamera camera;
-
     private Player player;
+
+
+
 
     @Override
     public void show() {
@@ -26,6 +28,7 @@ public class Play implements Screen {
         camera = new OrthographicCamera();
         player = new Player(new Sprite(new Texture("sprite1.png")), (TiledMapTileLayer) map.getLayers().get(1));
         //player.setPosition(18 * player.getCollisionLayer().getTileWidth(), 27 * player.getCollisionLayer().getTileHeight());
+
 
         camera.zoom = .8f;
 
@@ -47,7 +50,6 @@ public class Play implements Screen {
         renderer.getBatch().begin();
         player.draw(renderer.getBatch());
         renderer.getBatch().end();
-
     }
 
     @Override
@@ -75,6 +77,7 @@ public class Play implements Screen {
 
     @Override
     public void dispose() {
+
         map.dispose();
         renderer.dispose();
         player.getTexture().dispose();

@@ -2,39 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e34b49b7-f0c8-4552-bb46-209c72f88ef4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/core/assets/sprite0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/assets/sprite1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/assets/sprite10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/assets/sprite11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/assets/sprite2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/assets/sprite3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/assets/sprite4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/assets/sprite5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/assets/sprite6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/assets/sprite7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/assets/sprite8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/assets/sprite9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/assets/funmap.tmx" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/funmap.tmx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/assets/tilemapimage2.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/core/assets/tilemapimage2.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/tilemapgame/MainGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/tilemapgame/MainGame.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/tilemapgame/Play.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/tilemapgame/Play.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/tilemapgame/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/tilemapgame/Player.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/build/libs/core-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/libs/core-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/mygdx/tilemapgame/MainGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/com/mygdx/tilemapgame/MainGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/src/com/mygdx/tilemapgame/Play.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/com/mygdx/tilemapgame/Play.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/src/com/mygdx/tilemapgame/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/com/mygdx/tilemapgame/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/funmap.tmx" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/funmap.tmx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desktop/build/resources/main/tilemapimage2.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/desktop/build/resources/main/tilemapimage2.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +44,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="7c0cd7d7-e8f3-4644-a657-b619bb81851d" />
@@ -123,26 +107,41 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="575" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1585222607754">
+    <state x="575" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1585224849220">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="575" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1585222607754" />
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1585223753615">
+    <state x="575" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1585224849220" />
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1585226620290">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1585223753615" />
-    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1585223753615">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1585226620290" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1585226620289">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1585223753615" />
-    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1585223753615">
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1585226620289" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1585226620289">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1585223753615" />
-    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1585223753615">
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1585226620289" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1585226620289">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1585223753615" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1585226620289" />
+    <state x="86" y="36" width="1349" height="637" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1585226537406">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="86" y="36" width="1349" height="637" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1585226537406" />
   </component>
 </project>

@@ -16,6 +16,8 @@ public class Player extends Sprite implements InputProcessor {
     private float speed = 60 * 2;
     private TiledMapTileLayer collisionLayer;
     private String blockedKey = "blocked";
+    private int targetX;
+    private int targetY;
 
     public Player (Sprite sprite, TiledMapTileLayer collisionLayer) {
         super(sprite);
@@ -170,11 +172,19 @@ public class Player extends Sprite implements InputProcessor {
 
     @Override
     public boolean touchDown(int screenX, int screenY, int pointer, int button) {
+        if (button == Input.Buttons.LEFT) {
+            // Some stuff
+            return true;
+        }
         return false;
     }
 
     @Override
     public boolean touchUp(int screenX, int screenY, int pointer, int button) {
+        if (button == Input.Buttons.LEFT) {
+
+            return true;
+        }
         return false;
     }
 
