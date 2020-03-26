@@ -1,5 +1,5 @@
-## Wanderer-Microcosm
-Wanderer Microcosm- a Java based TileMap program using LibGDX to learn and understand tile maps better.
+## Simple Tile Map Example Program Using LibGDX
+A Java based TileMap program using LibGDX to learn and understand tile maps better.
 
 A simple TileMap Program using LibGDX to render a TileMap made in Tiled.
  
